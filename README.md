@@ -1,4 +1,4 @@
-# Lab 04: Seven Stages of Action & Design Principles
+# Lab 04: Design Principles
 ---
 
 ### Student Information
@@ -8,18 +8,15 @@
 
 ---
 
-## 1. Objective
-Demonstrating Don Norman’s Design Principles using color-coded cues to bridge the Gulf of Execution and Evaluation.
+## 1. Goal
+Using colors to show Don Norman's design principles.
 
-## 2. Core Design Principles
-* **Affordance (Blue Border):** Indicates the element is a clickable button.
-* **Mapping (Green Border):** Visually connects the action (button) to the result (status box).
-* **Feedback (Yellow Flash):** A 2-second color change confirms the click was registered.
-* **Signifier (Purple Color):** Signals the transition from an active to an inactive state.
-* **Constraint (Red Border):** Visually blocks further interaction once the limit is reached.
+## 2. Key Principles
+* **Affordance (Blue):** Shows the element is a clickable button.
+* **Mapping (Green):** Connects the button to its status box.
+* **Feedback (Yellow):** Flashes on click to confirm the action.
+* **Signifier (Purple):** Shows the button is now disabled.
+* **Constraint (Red):** Blocks interaction once the 3-click limit is hit.
 
 ## 3. Results
-The interface guides the user through the **Seven Stages of Action**:
-1.  **Goal:** Process data.
-2.  **Execution:** Clicking the blue-bordered button.
-3.  **Evaluation:** Confirming success via the yellow flash and green status box.
+Users can easily evaluate the system state through clear color changes.
