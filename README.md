@@ -9,18 +9,17 @@
 ---
 
 ## 1. Objective
-This lab uses color-coded cues to demonstrate Don Norman's Design Principles and bridge the **Gulf of Execution and Evaluation**.
+Demonstrating Don Norman’s Design Principles using color-coded cues to bridge the Gulf of Execution and Evaluation.
 
 ## 2. Core Design Principles
-* **Affordance (Blue Border):** The blue outline signals that the element is a button meant for clicking.
-* **Mapping (Green Border):** The status box is outlined in green to visually link the action (the button) to its result (the text).
-* **Feedback (Yellow Flash):** The button turns yellow for 2 seconds after a click to confirm the action was registered.
-* **Signifier (Purple Color):** Once disabled, the button turns purple to signify a change from "active" to "inactive."
-* **Constraint (Red Border):** A red border appears at the limit to visually "block" the user from further interaction.
+* **Affordance (Blue Border):** Indicates the element is a clickable button.
+* **Mapping (Green Border):** Visually connects the action (button) to the result (status box).
+* **Feedback (Yellow Flash):** A 2-second color change confirms the click was registered.
+* **Signifier (Purple Color):** Signals the transition from an active to an inactive state.
+* **Constraint (Red Border):** Visually blocks further interaction once the limit is reached.
 
 ## 3. Results
 The interface guides the user through the **Seven Stages of Action**:
-1. **Goal:** Process the data.
-2. **Execution:** Clicking the clearly marked blue button.
-3. **Evaluation:** Checking the green box and yellow flash to confirm success or see the red constraint.
-
+1.  **Goal:** Process data.
+2.  **Execution:** Clicking the blue-bordered button.
+3.  **Evaluation:** Confirming success via the yellow flash and green status box.
